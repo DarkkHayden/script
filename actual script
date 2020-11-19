@@ -1,4 +1,4 @@
-for x = 1, 158374563 do
+for x = 1, 50 do
 
 print("fuck")
 
